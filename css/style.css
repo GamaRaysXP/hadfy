@@ -13,3 +13,40 @@ body {
   height: 164px;
   margin-top: 80px;
 }
+
+h2 {
+  margin-top: 100px;
+}
+
+/* form */
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-top: 80px;
+  width: 398px;
+  height:86px;
+}
+
+.form-control {
+  font-family: Aileron;
+  font-weight: 800;
+  font-size: 30px;
+  color: #FFFFFF;
+  background-color: #65679A;
+}
+
+.btn {
+  margin-top:30 px;
+  width: 50%;
+  height: 101px;
+  background: #FFFDFD;
+  border-radius: 8px;
+  color: #5860CC;
+
+  font-family: Aileron;
+  font-weight: 800;
+  font-size: 30px;
+  text-align: center;
+}
