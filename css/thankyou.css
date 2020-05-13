@@ -1,0 +1,40 @@
+
+header{
+    background-color:  #65679A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-icon {
+    width: 30%;
+    padding: 1.5em;
+}
+  
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10em;
+
+}
+
+h2 {
+    color: #65679A;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 5em;
+}
+
+@media (max-width: 767px) {
+    .btn-block {
+        font-size: 1em;
+        width: 90%;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+}
