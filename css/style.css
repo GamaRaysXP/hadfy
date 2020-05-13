@@ -9,6 +9,14 @@ body {
   text-align: center;
 }
 
+h1{
+  color: #fff;
+}
+
+.h2 {
+  color: #fff;
+}
+
 .img-icon {
   width: 527px;
   height: 164px;
@@ -68,5 +76,12 @@ body {
 
   .fixed-top {
     position: relative;
+  }
+
+  .h2 {
+    margin-top: 5em;
+    margin-bottom: 2em;
+    color: #65679a;
+    font-size: 1.5em;
   }
 }
