@@ -67,4 +67,10 @@ body {
   .fixed-top {
     position: relative;
   }
+  
+   .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
